@@ -1,4 +1,3 @@
-# isPrime
 # Prime Number Checker API
 
 A simple Node.js + Express API that checks whether a given number is prime.
