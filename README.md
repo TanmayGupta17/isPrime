@@ -15,9 +15,9 @@ A simple Node.js + Express API that checks whether a given number is prime.
 ## 📦 Installation
 
 ```bash```
-git clone https://github.com/your-username/prime-api.git
-cd prime-api
-npm install
+git clone https://github.com/your-username/prime-api.git  
+cd prime-api  
+npm install  
 
 ## ▶️ Running the Server
 node index.js
